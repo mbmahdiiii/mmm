@@ -244,7 +244,7 @@ function create_config( )
       "italian_lang",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {115887468},
     admin_users = {},
     disabled_channels = {}
   }
